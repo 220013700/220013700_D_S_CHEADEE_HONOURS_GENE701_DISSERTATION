@@ -1,0 +1,58 @@
+Tukey's HSD Post-Hoc Analysis: Interval Comparison within Grouped Samples
+
+
+-----------------------------------------------
+Tukey's HSD Test for Main Sample Group: 2 mM Hydrogen Peroxide
+-----------------------------------------------
+  Multiple Comparison of Means - Tukey HSD, FWER=0.05  
+=======================================================
+ group1  group2  meandiff p-adj   lower   upper  reject
+-------------------------------------------------------
+0-6 hrs  6-8 hrs  -0.0426    0.0 -0.0519 -0.0333   True
+0-6 hrs 9-12 hrs  -0.0584    0.0 -0.0677 -0.0491   True
+6-8 hrs 9-12 hrs  -0.0158 0.0048 -0.0251 -0.0065   True
+-------------------------------------------------------
+-----------------------------------------------
+Tukey's HSD Test for Main Sample Group: 2 mM Hydrogen Peroxide + 4 mM Pyruvic acid sodium salt
+-----------------------------------------------
+  Multiple Comparison of Means - Tukey HSD, FWER=0.05  
+=======================================================
+ group1  group2  meandiff p-adj   lower   upper  reject
+-------------------------------------------------------
+0-6 hrs  6-8 hrs  -0.0423    0.0 -0.0516  -0.033   True
+0-6 hrs 9-12 hrs  -0.0368    0.0 -0.0461 -0.0275   True
+6-8 hrs 9-12 hrs   0.0055 0.2398 -0.0038  0.0148  False
+-------------------------------------------------------
+-----------------------------------------------
+Tukey's HSD Test for Main Sample Group: No stress control
+-----------------------------------------------
+  Multiple Comparison of Means - Tukey HSD, FWER=0.05  
+=======================================================
+ group1  group2  meandiff p-adj   lower   upper  reject
+-------------------------------------------------------
+0-6 hrs  6-8 hrs  -0.0297    0.0 -0.0347 -0.0246   True
+0-6 hrs 9-12 hrs  -0.0352    0.0 -0.0403 -0.0302   True
+6-8 hrs 9-12 hrs  -0.0056 0.0336 -0.0106 -0.0005   True
+-------------------------------------------------------
+-----------------------------------------------
+Tukey's HSD Test for Main Sample Group: 2 mM Hydrogen Peroxide + 1 mM Spermidine
+-----------------------------------------------
+  Multiple Comparison of Means - Tukey HSD, FWER=0.05  
+=======================================================
+ group1  group2  meandiff p-adj   lower   upper  reject
+-------------------------------------------------------
+0-6 hrs  6-8 hrs  -0.0434    0.0 -0.0484 -0.0384   True
+0-6 hrs 9-12 hrs   -0.055    0.0   -0.06   -0.05   True
+6-8 hrs 9-12 hrs  -0.0116 0.0009 -0.0166 -0.0066   True
+-------------------------------------------------------
+-----------------------------------------------
+Tukey's HSD Test for Main Sample Group: 4 mM Pyruvic acid sodium salt
+-----------------------------------------------
+  Multiple Comparison of Means - Tukey HSD, FWER=0.05  
+=======================================================
+ group1  group2  meandiff p-adj   lower   upper  reject
+-------------------------------------------------------
+0-6 hrs  6-8 hrs  -0.0256    0.0 -0.0305 -0.0207   True
+0-6 hrs 9-12 hrs  -0.0322    0.0 -0.0371 -0.0273   True
+6-8 hrs 9-12 hrs  -0.0066 0.0148 -0.0115 -0.0017   True
+-------------------------------------------------------

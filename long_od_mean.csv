@@ -1,0 +1,46 @@
+Main_Sample,Time_Interval,Mean_OD,Replicate_ID
+2 mM Hydrogen Peroxide + 1  mM Spermidine,0-6 hrs,0.3104,2 mM Hydrogen Peroxide + 1  mM Spermidine_R10
+2 mM Hydrogen Peroxide + 1  mM Spermidine,6-8 hrs,0.5383333333333332,2 mM Hydrogen Peroxide + 1  mM Spermidine_R10
+2 mM Hydrogen Peroxide + 1  mM Spermidine,9-12 hrs,0.6515,2 mM Hydrogen Peroxide + 1  mM Spermidine_R10
+2 mM Hydrogen Peroxide + 1  mM Spermidine,0-6 hrs,0.3106,2 mM Hydrogen Peroxide + 1  mM Spermidine_R11
+2 mM Hydrogen Peroxide + 1  mM Spermidine,6-8 hrs,0.54,2 mM Hydrogen Peroxide + 1  mM Spermidine_R11
+2 mM Hydrogen Peroxide + 1  mM Spermidine,9-12 hrs,0.6545000000000001,2 mM Hydrogen Peroxide + 1  mM Spermidine_R11
+2 mM Hydrogen Peroxide + 1  mM Spermidine,0-6 hrs,0.3096,2 mM Hydrogen Peroxide + 1  mM Spermidine_R12
+2 mM Hydrogen Peroxide + 1  mM Spermidine,6-8 hrs,0.5426666666666667,2 mM Hydrogen Peroxide + 1  mM Spermidine_R12
+2 mM Hydrogen Peroxide + 1  mM Spermidine,9-12 hrs,0.65825,2 mM Hydrogen Peroxide + 1  mM Spermidine_R12
+2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0-6 hrs,0.27999999999999997,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt_R7
+2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,6-8 hrs,0.476,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt_R7
+2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,9-12 hrs,0.64925,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt_R7
+2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0-6 hrs,0.31399999999999995,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt_R8
+2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,6-8 hrs,0.5396666666666666,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt_R8
+2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,9-12 hrs,0.73375,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt_R8
+2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0-6 hrs,0.3154,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt_R9
+2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,6-8 hrs,0.5513333333333333,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt_R9
+2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,9-12 hrs,0.73575,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt_R9
+2 mM Hydrogen Peroxide,0-6 hrs,0.3194,2 mM Hydrogen Peroxide_R4
+2 mM Hydrogen Peroxide,6-8 hrs,0.55,2 mM Hydrogen Peroxide_R4
+2 mM Hydrogen Peroxide,9-12 hrs,0.65325,2 mM Hydrogen Peroxide_R4
+2 mM Hydrogen Peroxide,0-6 hrs,0.31839999999999996,2 mM Hydrogen Peroxide_R5
+2 mM Hydrogen Peroxide,6-8 hrs,0.5563333333333333,2 mM Hydrogen Peroxide_R5
+2 mM Hydrogen Peroxide,9-12 hrs,0.67675,2 mM Hydrogen Peroxide_R5
+2 mM Hydrogen Peroxide,0-6 hrs,0.3212,2 mM Hydrogen Peroxide_R6
+2 mM Hydrogen Peroxide,6-8 hrs,0.5606666666666666,2 mM Hydrogen Peroxide_R6
+2 mM Hydrogen Peroxide,9-12 hrs,0.68,2 mM Hydrogen Peroxide_R6
+4m M Pyruvic Sodium Acid Salt,0-6 hrs,0.30060000000000003,4m M Pyruvic Sodium Acid Salt_R13
+4m M Pyruvic Sodium Acid Salt,6-8 hrs,0.5533333333333333,4m M Pyruvic Sodium Acid Salt_R13
+4m M Pyruvic Sodium Acid Salt,9-12 hrs,0.8899999999999999,4m M Pyruvic Sodium Acid Salt_R13
+4m M Pyruvic Sodium Acid Salt,0-6 hrs,0.31239999999999996,4m M Pyruvic Sodium Acid Salt_R14
+4m M Pyruvic Sodium Acid Salt,6-8 hrs,0.5643333333333334,4m M Pyruvic Sodium Acid Salt_R14
+4m M Pyruvic Sodium Acid Salt,9-12 hrs,0.9025000000000001,4m M Pyruvic Sodium Acid Salt_R14
+4m M Pyruvic Sodium Acid Salt,0-6 hrs,0.31520000000000004,4m M Pyruvic Sodium Acid Salt_R15
+4m M Pyruvic Sodium Acid Salt,6-8 hrs,0.5726666666666667,4m M Pyruvic Sodium Acid Salt_R15
+4m M Pyruvic Sodium Acid Salt,9-12 hrs,0.91825,4m M Pyruvic Sodium Acid Salt_R15
+No stress control,0-6 hrs,0.32219999999999993,No stress control_R1
+No stress control,6-8 hrs,0.5823333333333334,No stress control_R1
+No stress control,9-12 hrs,0.917,No stress control_R1
+No stress control,0-6 hrs,0.324,No stress control_R2
+No stress control,6-8 hrs,0.5890000000000001,No stress control_R2
+No stress control,9-12 hrs,0.9212499999999999,No stress control_R2
+No stress control,0-6 hrs,0.325,No stress control_R3
+No stress control,6-8 hrs,0.5866666666666666,No stress control_R3
+No stress control,9-12 hrs,0.9135,No stress control_R3

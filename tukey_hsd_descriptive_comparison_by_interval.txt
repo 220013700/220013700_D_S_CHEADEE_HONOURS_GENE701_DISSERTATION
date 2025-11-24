@@ -1,0 +1,57 @@
+Tukey's HSD Post-Hoc Analysis: Descriptive Group Comparison within Time Intervals
+
+
+-----------------------------------------------
+Tukey's HSD Post-Hoc Test for 0-6 hrs
+-----------------------------------------------
+                                              Multiple Comparison of Means - Tukey HSD, FWER=0.05                                              
+===============================================================================================================================================
+                       group1                                               group2                        meandiff p-adj   lower  upper  reject
+-----------------------------------------------------------------------------------------------------------------------------------------------
+                               2mM Hydrogen Peroxide               2mM Hydrogen Peroxide + 1mM Spermidine  -0.0018 0.8661  -0.008 0.0044  False
+                               2mM Hydrogen Peroxide 2mM Hydrogen Peroxide + 4mM Pyruvic acid sodium salt  -0.0042 0.2487 -0.0104  0.002  False
+                               2mM Hydrogen Peroxide                         4mM Pyruvic acid sodium salt  -0.0016 0.9141 -0.0078 0.0046  False
+                               2mM Hydrogen Peroxide                                    No Stress Control   0.0018 0.8765 -0.0044  0.008  False
+              2mM Hydrogen Peroxide + 1mM Spermidine 2mM Hydrogen Peroxide + 4mM Pyruvic acid sodium salt  -0.0024  0.722 -0.0086 0.0038  False
+              2mM Hydrogen Peroxide + 1mM Spermidine                         4mM Pyruvic acid sodium salt   0.0002 0.9999  -0.006 0.0065  False
+              2mM Hydrogen Peroxide + 1mM Spermidine                                    No Stress Control   0.0036  0.377 -0.0026 0.0098  False
+2mM Hydrogen Peroxide + 4mM Pyruvic acid sodium salt                         4mM Pyruvic acid sodium salt   0.0026 0.6505 -0.0036 0.0088  False
+2mM Hydrogen Peroxide + 4mM Pyruvic acid sodium salt                                    No Stress Control   0.0059 0.0619 -0.0003 0.0122  False
+                        4mM Pyruvic acid sodium salt                                    No Stress Control   0.0033 0.4391 -0.0029 0.0095  False
+-----------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------
+Tukey's HSD Post-Hoc Test for 6-8 hrs
+-----------------------------------------------
+                                              Multiple Comparison of Means - Tukey HSD, FWER=0.05                                              
+===============================================================================================================================================
+                       group1                                               group2                        meandiff p-adj   lower  upper  reject
+-----------------------------------------------------------------------------------------------------------------------------------------------
+                               2mM Hydrogen Peroxide               2mM Hydrogen Peroxide + 1mM Spermidine  -0.0026  0.894 -0.0122  0.007  False
+                               2mM Hydrogen Peroxide 2mM Hydrogen Peroxide + 4mM Pyruvic acid sodium salt  -0.0039 0.6869 -0.0135 0.0058  False
+                               2mM Hydrogen Peroxide                         4mM Pyruvic acid sodium salt   0.0155 0.0026  0.0058 0.0251   True
+                               2mM Hydrogen Peroxide                                    No Stress Control   0.0147 0.0037  0.0051 0.0244   True
+              2mM Hydrogen Peroxide + 1mM Spermidine 2mM Hydrogen Peroxide + 4mM Pyruvic acid sodium salt  -0.0013 0.9919 -0.0109 0.0084  False
+              2mM Hydrogen Peroxide + 1mM Spermidine                         4mM Pyruvic acid sodium salt   0.0181 0.0008  0.0084 0.0277   True
+              2mM Hydrogen Peroxide + 1mM Spermidine                                    No Stress Control   0.0173 0.0011  0.0077  0.027   True
+2mM Hydrogen Peroxide + 4mM Pyruvic acid sodium salt                         4mM Pyruvic acid sodium salt   0.0193 0.0005  0.0097  0.029   True
+2mM Hydrogen Peroxide + 4mM Pyruvic acid sodium salt                                    No Stress Control   0.0186 0.0006  0.0089 0.0282   True
+                        4mM Pyruvic acid sodium salt                                    No Stress Control  -0.0007  0.999 -0.0104 0.0089  False
+-----------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------
+Tukey's HSD Post-Hoc Test for 9-12 hrs
+-----------------------------------------------
+                                              Multiple Comparison of Means - Tukey HSD, FWER=0.05                                              
+===============================================================================================================================================
+                       group1                                               group2                        meandiff p-adj   lower  upper  reject
+-----------------------------------------------------------------------------------------------------------------------------------------------
+                               2mM Hydrogen Peroxide               2mM Hydrogen Peroxide + 1mM Spermidine   0.0016 0.9102 -0.0047 0.0079  False
+                               2mM Hydrogen Peroxide 2mM Hydrogen Peroxide + 4mM Pyruvic acid sodium salt   0.0175    0.0  0.0112 0.0237   True
+                               2mM Hydrogen Peroxide                         4mM Pyruvic acid sodium salt   0.0246    0.0  0.0184 0.0309   True
+                               2mM Hydrogen Peroxide                                    No Stress Control   0.0249    0.0  0.0187 0.0312   True
+              2mM Hydrogen Peroxide + 1mM Spermidine 2mM Hydrogen Peroxide + 4mM Pyruvic acid sodium salt   0.0158 0.0001  0.0096 0.0221   True
+              2mM Hydrogen Peroxide + 1mM Spermidine                         4mM Pyruvic acid sodium salt    0.023    0.0  0.0168 0.0293   True
+              2mM Hydrogen Peroxide + 1mM Spermidine                                    No Stress Control   0.0233    0.0  0.0171 0.0296   True
+2mM Hydrogen Peroxide + 4mM Pyruvic acid sodium salt                         4mM Pyruvic acid sodium salt   0.0072 0.0238  0.0009 0.0134   True
+2mM Hydrogen Peroxide + 4mM Pyruvic acid sodium salt                                    No Stress Control   0.0075 0.0186  0.0012 0.0138   True
+                        4mM Pyruvic acid sodium salt                                    No Stress Control   0.0003 0.9998  -0.006 0.0066  False
+-----------------------------------------------------------------------------------------------------------------------------------------------

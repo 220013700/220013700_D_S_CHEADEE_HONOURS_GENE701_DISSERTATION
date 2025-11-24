@@ -1,0 +1,166 @@
+Time,Sample,OD,LOG OD
+0,No stress control,0.15,-0.8239087409443188
+2,No stress control,0.223,-0.6516951369518393
+3,No stress control,0.301,-0.5214335044061567
+5,No stress control,0.428,-0.368556230986828
+6,No stress control,0.509,-0.29328221766324125
+7,No stress control,0.567,-0.24641694110709347
+8,No stress control,0.671,-0.17327747983100789
+9,No stress control,0.754,-0.12262865413022594
+10,No stress control,0.859,-0.0660068361687577
+11,No stress control,0.962,-0.016824927962187056
+12,No stress control,1.093,0.03862016194970278
+0,No stress control,0.15,-0.8239087409443188
+2,No stress control,0.227,-0.6439741428068773
+3,No stress control,0.302,-0.5199930570428494
+5,No stress control,0.423,-0.37365963262495766
+6,No stress control,0.518,-0.28567024025476695
+7,No stress control,0.578,-0.23807216157947098
+8,No stress control,0.671,-0.17327747983100789
+9,No stress control,0.748,-0.12609840213553863
+10,No stress control,0.883,-0.05403929642243141
+11,No stress control,0.956,-0.019542107723899943
+12,No stress control,1.098,0.04060234011407314
+0,No stress control,0.15,-0.8239087409443188
+2,No stress control,0.227,-0.6439741428068773
+3,No stress control,0.316,-0.5003129173815962
+5,No stress control,0.426,-0.37059040089728107
+6,No stress control,0.506,-0.2958494831602009
+7,No stress control,0.584,-0.23358715288760054
+8,No stress control,0.67,-0.17392519729917355
+9,No stress control,0.753,-0.12320502379929942
+10,No stress control,0.848,-0.07160414774328619
+11,No stress control,0.981,-0.008330992620051497
+12,No stress control,1.072,0.03019478535675124
+0,2 mM Hydrogen Peroxide,0.15,-0.8239087409443188
+2,2 mM Hydrogen Peroxide,0.227,-0.6439741428068773
+3,2 mM Hydrogen Peroxide,0.304,-0.5171264163912462
+5,2 mM Hydrogen Peroxide,0.415,-0.3819519032879073
+6,2 mM Hydrogen Peroxide,0.501,-0.30016227413275426
+7,2 mM Hydrogen Peroxide,0.55,-0.2596373105057561
+8,2 mM Hydrogen Peroxide,0.599,-0.22257317761068865
+9,2 mM Hydrogen Peroxide,0.609,-0.21538270736712464
+10,2 mM Hydrogen Peroxide,0.626,-0.20342566678957033
+11,2 mM Hydrogen Peroxide,0.656,-0.1830961606243397
+12,2 mM Hydrogen Peroxide,0.722,-0.14146280243036088
+0,2 mM Hydrogen Peroxide,0.15,-0.8239087409443188
+2,2 mM Hydrogen Peroxide,0.226,-0.645891560852599
+3,2 mM Hydrogen Peroxide,0.304,-0.5171264163912462
+5,2 mM Hydrogen Peroxide,0.418,-0.3788237182249648
+6,2 mM Hydrogen Peroxide,0.494,-0.30627305107635305
+7,2 mM Hydrogen Peroxide,0.554,-0.2564902352715702
+8,2 mM Hydrogen Peroxide,0.621,-0.20690839982341983
+9,2 mM Hydrogen Peroxide,0.613,-0.21253952548158497
+10,2 mM Hydrogen Peroxide,0.641,-0.19314197048118256
+11,2 mM Hydrogen Peroxide,0.696,-0.15739076038943792
+12,2 mM Hydrogen Peroxide,0.757,-0.12090412049992724
+0,2 mM Hydrogen Peroxide,0.15,-0.8239087409443188
+2,2 mM Hydrogen Peroxide,0.224,-0.6497519816658371
+3,2 mM Hydrogen Peroxide,0.309,-0.5100415205751654
+5,2 mM Hydrogen Peroxide,0.422,-0.37468754903832613
+6,2 mM Hydrogen Peroxide,0.501,-0.30016227413275426
+7,2 mM Hydrogen Peroxide,0.566,-0.24718356881172862
+8,2 mM Hydrogen Peroxide,0.615,-0.21112488422458328
+9,2 mM Hydrogen Peroxide,0.624,-0.20481541031757602
+10,2 mM Hydrogen Peroxide,0.644,-0.1911141326401879
+11,2 mM Hydrogen Peroxide,0.682,-0.16621562534352105
+12,2 mM Hydrogen Peroxide,0.77,-0.11350927482751812
+0,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.15,-0.8239087409443188
+2,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.192,-0.7166987712964504
+3,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.256,-0.5917600346881504
+5,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.365,-0.4377071355435253
+6,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.437,-0.3595185630295782
+7,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.475,-0.3233063903751334
+8,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.516,-0.28735029837278864
+9,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.554,-0.2564902352715702
+10,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.601,-0.22112552799726048
+11,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.675,-0.17069622716897506
+12,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.767,-0.11520463605101904
+0,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.15,-0.8239087409443188
+2,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.226,-0.645891560852599
+3,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.291,-0.5361070110140927
+5,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.422,-0.37468754903832613
+6,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.481,-0.31785492362616824
+7,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.548,-0.2612194415156308
+8,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.59,-0.22914798835785583
+9,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.627,-0.20273245916928356
+10,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.683,-0.1655792963184674
+11,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.769,-0.11407366019856895
+12,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.856,-0.06752623532284678
+0,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.15,-0.8239087409443188
+2,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.216,-0.6655462488490691
+3,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.289,-0.5391021572434522
+5,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.426,-0.37059040089728107
+6,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.496,-0.30451832350980257
+7,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.559,-0.25258819211357664
+8,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.599,-0.22257317761068865
+9,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.623,-0.2055119533408304
+10,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.691,-0.16052195262580163
+11,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.774,-0.11125903931710739
+12,2 mM Hydrogen Peroxide + 4 mM Pyruvic Sodium Acid Salt,0.855,-0.06803388527182737
+0,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.15,-0.8239087409443188
+2,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.223,-0.6516951369518393
+3,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.281,-0.5512936800949201
+5,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.418,-0.3788237182249648
+6,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.48,-0.3187587626244128
+7,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.545,-0.2636034977233575
+8,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.59,-0.22914798835785583
+9,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.594,-0.22621355501880647
+10,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.614,-0.21183162885883233
+11,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.664,-0.1778319206319825
+12,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.734,-0.13430394008392949
+0,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.15,-0.8239087409443188
+2,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.213,-0.6716203965612623
+3,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.283,-0.5482135644757098
+5,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.416,-0.3809066693732573
+6,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.491,-0.3089185078770315
+7,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.541,-0.26680273489343054
+8,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.588,-0.23062267392386154
+9,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.599,-0.22257317761068865
+10,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.617,-0.20971483596675833
+11,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.674,-0.17134010346468015
+12,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.728,-0.13786862068696282
+0,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.15,-0.8239087409443188
+2,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.21,-0.6777807052660807
+3,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.281,-0.5512936800949201
+5,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.419,-0.3777859770337047
+6,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.488,-0.3115801779972894
+7,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.55,-0.2596373105057561
+8,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.59,-0.22914798835785583
+9,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.599,-0.22257317761068865
+10,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.621,-0.20690839982341983
+11,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.668,-0.1752235375244543
+12,2 mM Hydrogen Peroxide + 1  mM Spermidine,0.745,-0.12784372725170717
+0,4m M Pyruvic Sodium Acid Salt,0.15,-0.8239087409443188
+2,4m M Pyruvic Sodium Acid Salt,0.203,-0.6925039620867871
+3,4m M Pyruvic Sodium Acid Salt,0.269,-0.5702477199975919
+5,4m M Pyruvic Sodium Acid Salt,0.402,-0.3957739469155299
+6,4m M Pyruvic Sodium Acid Salt,0.479,-0.3196644865854368
+7,4m M Pyruvic Sodium Acid Salt,0.552,-0.2580609222708011
+8,4m M Pyruvic Sodium Acid Salt,0.629,-0.20134935455473107
+9,4m M Pyruvic Sodium Acid Salt,0.734,-0.13430394008392949
+10,4m M Pyruvic Sodium Acid Salt,0.839,-0.07623803917129975
+11,4m M Pyruvic Sodium Acid Salt,0.949,-0.022733787572707352
+12,4m M Pyruvic Sodium Acid Salt,1.038,0.01619735351243906
+0,4m M Pyruvic Sodium Acid Salt,0.15,-0.8239087409443188
+2,4m M Pyruvic Sodium Acid Salt,0.212,-0.6736641390712486
+3,4m M Pyruvic Sodium Acid Salt,0.287,-0.5421181032660077
+5,4m M Pyruvic Sodium Acid Salt,0.426,-0.37059040089728107
+6,4m M Pyruvic Sodium Acid Salt,0.487,-0.3124710387853657
+7,4m M Pyruvic Sodium Acid Salt,0.559,-0.25258819211357664
+8,4m M Pyruvic Sodium Acid Salt,0.647,-0.1890957193312996
+9,4m M Pyruvic Sodium Acid Salt,0.739,-0.13135556160517428
+10,4m M Pyruvic Sodium Acid Salt,0.849,-0.07109230975604734
+11,4m M Pyruvic Sodium Acid Salt,0.943,-0.02548830726267165
+12,4m M Pyruvic Sodium Acid Salt,1.079,0.033021444682910656
+0,4m M Pyruvic Sodium Acid Salt,0.15,-0.8239087409443188
+2,4m M Pyruvic Sodium Acid Salt,0.221,-0.6556077263148893
+3,4m M Pyruvic Sodium Acid Salt,0.29,-0.5376020021010439
+5,4m M Pyruvic Sodium Acid Salt,0.417,-0.3798639450262425
+6,4m M Pyruvic Sodium Acid Salt,0.498,-0.30277065724028246
+7,4m M Pyruvic Sodium Acid Salt,0.568,-0.24565166428898116
+8,4m M Pyruvic Sodium Acid Salt,0.652,-0.1857524042680798
+9,4m M Pyruvic Sodium Acid Salt,0.747,-0.12667939818460122
+10,4m M Pyruvic Sodium Acid Salt,0.874,-0.05848856736559697
+11,4m M Pyruvic Sodium Acid Salt,0.963,-0.0163737128754655
+12,4m M Pyruvic Sodium Acid Salt,1.089,0.03702787975577494
